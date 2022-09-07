@@ -1,0 +1,11 @@
+C:\Users\sakariye\source\repos\calculater app\calculater app\bin\Debug\calculater app.exe.config
+C:\Users\sakariye\source\repos\calculater app\calculater app\bin\Debug\calculater app.exe
+C:\Users\sakariye\source\repos\calculater app\calculater app\bin\Debug\calculater app.pdb
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.csproj.AssemblyReference.cache
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.csproj.SuggestedBindingRedirects.cache
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater_app.Form1.resources
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater_app.Properties.Resources.resources
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.csproj.GenerateResource.cache
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.csproj.CoreCompileInputs.cache
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.exe
+C:\Users\sakariye\source\repos\calculater app\calculater app\obj\Debug\calculater app.pdb
